@@ -1,0 +1,40 @@
+form{
+    background-color: cyan;
+    color: blue;
+    padding: 15px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+body{
+    background-color: black;
+}
+div{
+    margin: 50px auto;
+    width: 500px;
+    height: 700px;
+}
+form:hover{
+    background-color:wheat;
+    color: black;
+}
+input{
+    background-color: blanchedalmond;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+    transition: 1s;
+}
+a:hover{
+    color:white;
+}
+button{
+    border-radius: 5px;
+    transition: 1s;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
